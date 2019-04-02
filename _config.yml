@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 212395159@qq.com
 description: "To bear the defeat and never lose heart."
 keyword: "LJJ,DeepLearning,Android,java,javaweb,数据结构算法"
-url: "http://knight-peanut.github.io"          # your host, for absolute URL
+url: "https://knight-peanut.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/knight-peanut/knight-peanut.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 29697585069ddcdcc635f7334a6405b25dcd2a77    #生成的clientSecret
   repo: knight-peanut.github.io    #仓库名称
   owner: knight-peanut    #github用户名
-  admin: LJJ
+  admin: knight-peanut
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
