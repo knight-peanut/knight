@@ -62,8 +62,8 @@ disqus_username: knight-peanut
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: e4659a89939ff28233e5                            #生成的clientID
+  clientSecret: 29697585069ddcdcc635f7334a6405b25dcd2a77    #生成的clientSecret
   repo: knight-peanut.github.io    #仓库名称
   owner: knight-peanut    #github用户名
   admin: LJJ
