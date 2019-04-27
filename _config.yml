@@ -12,7 +12,7 @@ github_repo: "https://github.com/knight-peanut/knight-peanut.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Talk is cheap,give me the code!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-LJJ-self.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
