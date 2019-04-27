@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      Markdown语法简介
+subtitle:   如何使用Markdown语法来写文章以及博客文章样式要求
+date:       2019-04-29
+author:     LJJ
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Markdown
+---
+
+# Markdown语法介绍
+
+Markdown 是一种轻量级标记语言，让写作者专注于写作而不用关注样式，可以与HTML互相转换，可用于网页展示，便于排版。
+我们在GitHub写的文章也是运用的这种语法，所以在这篇文章里简单地对一些Markdown的语法和用法进行总结，方便未来的使用和学习。
+
+## 标题
