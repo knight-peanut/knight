@@ -1,7 +1,21 @@
-# 暑假日程任务安排
+---
+layout:     post
+title:      Hoilday tasks
+subtitle:   Something should be accomplished
+date:       2019-07-22
+author:     LJJ
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - 鏉傝
+---
+
+
+
+# Hoilday tasks
 - Eenglish Listening 20min/morning after get up early
 - Everyday presentation pratice
 - leetcode algorithm(GitHub+Blog)
-- matlab&math model—>blog
+- matlab&math model隆陋>blog
 - Java Learing&blog
 - nao blog
