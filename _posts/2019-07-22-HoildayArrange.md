@@ -18,4 +18,6 @@ tags:
 - leetcode algorithm(GitHub+Blog)
 - matlab&math model->blog
 - Java Learing&blog
-- nao blog
+- Nao blog
+- Guitar pratice
+- Mandarin pratice
