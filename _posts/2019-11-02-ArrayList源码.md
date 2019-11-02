@@ -12,8 +12,7 @@ tags:
 
 
 # ArrayList源码
-
-- 英文原汁原味
+简述：英文原汁原味
 
 
     public class ArrayList<E> extends AbstractList<E>
