@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      CodeBlocks创建C++项目，编译并运行
+title:      CodeBlocks简易使用
 subtitle:   codeblocks使用
-date:       2018-03-23
+date:       2020-04-09
 author:     LJJ
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
